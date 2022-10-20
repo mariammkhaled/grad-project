@@ -1,0 +1,100 @@
+body {
+  background-color: #ffffff;
+  font-family: "Inter", sans-serif;
+}
+
+header nav {
+  background-color: #ffffff;
+}
+
+header nav .logo {
+  margin-right: 20px;
+}
+
+header nav .buttons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: auto;
+}
+
+header nav .signup-btn {
+  border-radius: 50px;
+  background-color: #3b66f5;
+  margin-right: 14px;
+}
+
+header nav .login-btn {
+  border-radius: 50px;
+  background-color: #f4f5f5;
+  color: #3b66f5;
+}
+
+.card-photo {
+  padding-top: 109px;
+  padding-left: 136px;
+}
+
+.card-content {
+  padding-top: 110px;
+  padding-left: 0px;
+}
+
+.n1 {
+  color: #003267;
+  font-weight: 600;
+  height: 34px;
+}
+
+.n2 {
+  color: #748fb9;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.form-content {
+  padding-top: 40px;
+  padding-bottom: 16px;
+}
+
+.form-rounded {
+  padding: 10px 16px;
+  width: 392px;
+  height: 49px;
+  background: #f7f9fc;
+  border-radius: 24px;
+  border: none;
+}
+
+.forget {
+  color: #1c1c1c;
+  font-size: 14px;
+  padding-left: 273px;
+  padding-top: 16px;
+  text-decoration: none;
+}
+
+.btn1 {
+  padding: 8px 32px;
+  width: 392px;
+  background: #3b66f5;
+  border-radius: 27px;
+  margin: 48px 0px;
+}
+
+.btn-primary {
+  background: #3b66f5;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.dont {
+  padding-left: 77px;
+  padding-top: 0px;
+}
+/*# sourceMappingURL=signin.css.map */

@@ -1,0 +1,165 @@
+body {
+    background-color: #ffffff;
+    font-family: "Inter", sans-serif;
+  }
+  
+  header {
+    padding: 20px;
+
+    nav {
+      background-color: #ffffff;
+      
+      .buttons {
+        display: flex;
+        margin-left: auto;
+      }
+
+      .btn0 {
+        border-radius: 50px;
+        background-color: #F2F5FF;
+        color: #3B66F5;
+        border-color: #F2F5FF;
+      }
+  
+      .btn1 {
+        border-radius: 50px;
+        background-color: #3b66f5;
+        margin-right: 14px;
+      }
+  
+      .btn2 {
+        border-radius: 50px;
+        background-color: #ffffff;
+        color: #3b66f5;
+      }
+    }
+  }
+  
+  //end header
+
+
+  //login edits
+  .header-content {
+    display: flex;
+}
+section {
+
+.loginlogo {
+    padding-left: 100px;
+    height: 400px;
+    width: 500px;
+}
+
+h3 {
+    display: inline-block;
+    padding-left: 90px;
+    position: static;
+    left: 0%;
+right: 38.68%;
+top: 0%;
+bottom: 52.78%;
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+padding-top: 20px;
+}
+
+span {
+    position: static;
+left: 0%;
+right: 0%;
+top: 58.33%;
+bottom: 0%;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 30px;
+color: #748FB9;
+}
+}
+
+.rightcontent{
+    margin-left: 30px;
+
+    .button {
+        /* Auto layout */
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 8px 32px;
+
+position: static;
+width: 392px;
+height: 54px;
+left: 0px;
+top: 378px;
+
+/* P */
+
+background: #3B66F5;
+border-radius: 27px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 48px 0px;
+    }
+}
+
+span {
+    
+    
+.therpat {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+margin-right: 100px;
+position: static;
+width: 392px;
+height: 218px;
+left: 0px;
+top: 112px;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 40px 0px;
+}
+
+a {
+    text-decoration: none;
+    margin: 20px;
+    text-align: center;
+
+    .loginicon1 {
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+color: #003267;
+padding-top: 10px;
+
+    }
+
+    .loginicon2 {
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+color: #3B66F5;
+padding-top: 10px;
+    }
+
+    img {
+        width: 180px;
+        height: 180px;
+    }
+}
+
+}
+
+
